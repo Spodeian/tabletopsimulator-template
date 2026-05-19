@@ -1,1 +1,0 @@
-# tabletopsimulator-template
